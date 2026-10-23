@@ -8,20 +8,20 @@
   "packages": [
     {
       "id": "com.hydralg.player",
-      "title": "Hydra LG Edition (Test)",
+      "title": "Hydra LG Edition (Test v0.1.1)",
       "iconUri": "https://raw.githubusercontent.com/hamad9971/hydra-lg/main/icon.png",
       "manifest": {
         "id": "com.hydralg.player",
-        "version": "0.1.0",
+        "version": "0.1.1",
         "type": "web",
-        "title": "Hydra LG Edition (Test)",
+        "title": "Hydra LG Edition (Test v0.1.1)",
         "appDescription": "Experimental IPTV client; untested on TV.",
         "iconUri": "https://raw.githubusercontent.com/hamad9971/hydra-lg/main/icon.png",
         "sourceUrl": "https://github.com/hamad9971/hydra-lg",
         "rootRequired": false,
-        "ipkUrl": "https://raw.githubusercontent.com/hamad9971/hydra-lg/main/Hydra_LG_Edition_Test.ipk",
+        "ipkUrl": "https://raw.githubusercontent.com/hamad9971/hydra-lg/main/Hydra_LG_Edition_v0.1.1.ipk",
         "ipkHash": {
-          "sha256": "e3a4f715ec609941a9e50a827066b66385c7b01272b09dc821b0b9e621585e25"
+          "sha256": "94037f9fb22a414437326f4201582c4399fd5ae561365167620cbfaaad9a7773"
         }
       }
     }
