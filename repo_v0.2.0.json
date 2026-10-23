@@ -1,0 +1,29 @@
+{
+  "paging": {
+    "page": 1,
+    "count": 1,
+    "maxPage": 1,
+    "itemsTotal": 1
+  },
+  "packages": [
+    {
+      "id": "com.hydralg.player",
+      "title": "Hydra LG Edition v0.2.0",
+      "iconUri": "https://raw.githubusercontent.com/hamad9971/hydra-lg/main/icon.png",
+      "manifest": {
+        "id": "com.hydralg.player",
+        "version": "0.2.0",
+        "type": "web",
+        "title": "Hydra LG Edition v0.2.0",
+        "appDescription": "Redesigned independent IPTV player test for webOS.",
+        "iconUri": "https://raw.githubusercontent.com/hamad9971/hydra-lg/main/icon.png",
+        "sourceUrl": "https://github.com/hamad9971/hydra-lg",
+        "rootRequired": false,
+        "ipkUrl": "https://raw.githubusercontent.com/hamad9971/hydra-lg/main/Hydra_LG_Edition_v0.2.0.ipk",
+        "ipkHash": {
+          "sha256": "3907cbb6bae73d0b24fb8af37aea325b08609f9b352936fc6fafeb7a95642ce4"
+        }
+      }
+    }
+  ]
+}
